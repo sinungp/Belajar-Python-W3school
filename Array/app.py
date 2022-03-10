@@ -43,3 +43,4 @@ print("Anda dapat menggunakan pop()metode untuk menghapus elemen dari array.")
 cars.pop(0)
 
 print(cars)
+
